@@ -261,7 +261,7 @@ cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/django,python
 
-/auth_system/settings.py
+!**/auth_system/settings.py
 
 *.pyc
 *.log
