@@ -264,3 +264,16 @@ cython_debug/
 /auth_system/settings.py
 
 *.pyc
+*.log
+
+*.pot
+
+*.pyc
+
+*/*/*/__pycache__/
+
+*/*/__pycache__/
+
+*/__pycache__/
+
+settings.py != local_settings.py
