@@ -263,6 +263,8 @@ cython_debug/
 
 !**/auth_system/settings.py
 
+./auth_system/settings.py
+
 *.pyc
 *.log
 
